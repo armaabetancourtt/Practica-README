@@ -32,4 +32,4 @@ _Cursivav2_
 
 ## LINKs
 http://github.com
-[Pagina principal de Git] (github.com)
+[Pagina principal de Git] (http://github.com)
