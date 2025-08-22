@@ -31,7 +31,7 @@ _Cursivav2_
  *ItemCb
 
 ## LINKs
-http://github.com
+http://github.comAAAzZz
 [Pagina principal de Git] (http://github.com)
 
 ##BLOCKQUOTES
@@ -46,5 +46,15 @@ http://github.com
     javac *.java
    ```
 
+# Task List
+- [ ] Tarea 1
+- [ ] Tarea 2
+- [ ] Actividad 3
+- [ ] Actividad 4
 
-  
+# Tablas
+
+First Name | Last Name 
+-----------|-----------
+Ricardo    | Elizalde
+Beatriz    | Lagunes
