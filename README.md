@@ -42,9 +42,9 @@ http://github.com
 > clear
 > java Main
 
-    ```bash
+  ```bash
     javac *.java
-    ```
+   ```
 
 
   
